@@ -1,6 +1,6 @@
 import streamlit as st
 import os 
-from groq import Groq
+from groq import groq
 from dotenv import load_dotenv
 import time
 
